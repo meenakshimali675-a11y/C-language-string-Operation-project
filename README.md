@@ -1,2 +1,2 @@
 # C-language-string-Operation-project
-A menu-driven string manipulation project in C that includes case conversion, word reversal, character counting, and other basic text processing operations. Great for beginners learning C programming and functions.
+This project is a menu-driven string operations program written in C that demonstrates fundamental string manipulation techniques. It allows users to perform multiple operations on a single input string, including converting text to uppercase or lowercase, reversing the entire string, reversing each word at its position, capitalizing the first or last letter of every word, and counting the occurrence of characters. The program is designed to understand functions, loops, arrays, and basic logic building in C programming.
